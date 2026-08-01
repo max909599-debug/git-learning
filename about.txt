@@ -1,1 +1,1 @@
-hello i am trying to learn git by myself
+hello i am trying to learn how local and remote repositories work
